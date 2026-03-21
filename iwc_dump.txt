@@ -1,0 +1,475 @@
+[05-09 06:16:44.652] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-09 06:16:44.652] Default value of : SNS: DEFAULT_OFF
+[05-09 06:16:44.653] load_model_obj : success to load_model_obj(org.json) in 0.0
+[05-09 06:16:44.654] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-09 06:16:44.654] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-09 06:16:51.689] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[05-09 06:15:35.061] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-09 06:15:35.062] Default value of : SNS: DEFAULT_OFF
+[05-09 06:15:35.064] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-09 06:15:35.065] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-09 06:15:35.065] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-12 02:09:21.991] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-12 02:09:21.993] Default value of : SNS: DEFAULT_OFF
+[05-12 02:09:21.994] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-12 02:09:21.996] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-12 02:09:21.996] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-09 16:13:08.156] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-09 16:13:08.157] Default value of : SNS: DEFAULT_OFF
+[05-09 16:13:08.159] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-09 16:13:08.160] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-09 16:13:08.160] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 11:34:08.074] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 11:34:08.075] Default value of : SNS: DEFAULT_OFF
+[05-10 11:34:08.078] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-10 11:34:08.078] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 11:34:08.079] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 12:19:18.058] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 12:19:18.060] Default value of : SNS: DEFAULT_OFF
+[05-10 12:19:18.062] load_model_obj : success to load_model_obj(org.json) in 0.0
+[05-10 12:19:18.063] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 12:19:18.063] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 12:24:45.278] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 12:24:45.280] Default value of : SNS: DEFAULT_ON
+[05-10 12:24:45.281] load_model_obj : success to load_model_obj(org.json) in 0.0
+[05-10 12:24:45.282] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 12:24:45.282] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 13:06:40.122] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 13:06:40.146] Default value of : SNS: DEFAULT_ON
+[05-10 13:06:40.149] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-10 13:06:40.150] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 13:06:40.150] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 13:07:28.144] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 13:07:28.145] Default value of : SNS: DEFAULT_ON
+[05-10 13:07:28.147] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-10 13:07:28.148] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 13:07:28.149] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 14:55:43.356] WIFI OFF event, timestamp =1589093743356: , edgeflag = false, old AP=null, PN = null
+[05-10 14:59:28.339] WIFI OFF event, timestamp =1589093968338: , edgeflag = false, old AP=null, PN = com.android.systemui
+[05-09 14:15:35.104] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-09 14:15:35.105] Default value of : SNS: DEFAULT_ON
+[05-09 14:15:35.108] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-09 14:15:35.108] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-09 14:15:35.109] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-10 14:42:50.119] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-10 14:42:50.122] Default value of : SNS: DEFAULT_ON
+[05-10 14:42:50.125] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-10 14:42:50.126] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-10 14:42:50.126] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-11 18:55:41.172] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-11 18:55:41.174] Default value of : SNS: DEFAULT_ON
+[05-11 18:55:41.176] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-11 18:55:41.176] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-11 18:55:41.177] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-16 12:44:57.661] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-16 12:44:57.694] Default value of : SNS: DEFAULT_ON
+[05-16 12:44:57.697] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-16 12:44:57.697] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-16 12:44:57.698] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-18 15:36:49.463] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-18 15:36:49.501] Default value of : SNS: DEFAULT_ON
+[05-18 15:36:49.504] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-18 15:36:49.505] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-18 15:36:49.505] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-18 16:07:44.213] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-18 16:07:44.214] Default value of : SNS: DEFAULT_ON
+[05-18 16:07:44.217] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-18 16:07:44.217] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-18 16:07:44.218] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-19 11:43:32.226] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-19 11:43:32.239] Default value of : SNS: DEFAULT_ON
+[05-19 11:43:32.246] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-19 11:43:32.247] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-19 11:43:32.247] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-20 14:58:02.619] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-20 14:58:02.658] Default value of : SNS: DEFAULT_ON
+[05-20 14:58:02.661] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-20 14:58:02.665] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-20 14:58:02.665] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-20 16:34:29.031] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-20 16:34:29.032] Default value of : SNS: DEFAULT_ON
+[05-20 16:34:29.035] load_model_obj : success to load_model_obj(org.json) in 0.002
+[05-20 16:34:29.035] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-20 16:34:29.035] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[05-23 14:46:26.218] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[05-23 14:46:26.224] Default value of : SNS: DEFAULT_ON
+[05-23 14:46:26.227] load_model_obj : success to load_model_obj(org.json) in 0.001
+[05-23 14:46:26.227] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[05-23 14:46:26.227] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[06-02 13:52:30.633] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[06-02 13:52:30.674] Default value of : SNS: DEFAULT_ON
+[06-02 13:52:30.677] load_model_obj : success to load_model_obj(org.json) in 0.002
+[06-02 13:52:30.678] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[06-02 13:52:30.678] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[06-02 08:31:43.086] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[06-02 08:31:43.089] Default value of : SNS: DEFAULT_ON
+[06-02 08:31:43.092] load_model_obj : success to load_model_obj(org.json) in 0.0
+[06-02 08:31:43.093] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[06-02 08:31:43.093] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[06-02 10:19:17.178] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[06-02 10:19:17.184] Default value of : SNS: DEFAULT_ON
+[06-02 10:19:17.186] load_model_obj : success to load_model_obj(org.json) in 0.002
+[06-02 10:19:17.186] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[06-02 10:19:17.187] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[06-02 10:24:23.758] setConnectionAttemptInfo: nid=-1 byUser=true configKey="Nigga"WPA_PSK callingUid=1000(com.android.settings) cNid=-1
+[06-02 10:24:23.951] Connecting event, timestamp =1717320263944: , new AP:##:##:##:##:cd:ae
+[06-02 10:24:24.809] Connecting event, timestamp =1717320264746: , new AP:##:##:##:##:cd:ae
+[06-02 10:24:25.230] SNS state, false, timestamp =1717320265163: , edgeflag = false, NEW AP:##:##:##:##:cd:ae
+[06-02 10:24:25.231] Network connected event(intermediate), timestamp =1717320265163: , New AP:##:##:##:##:cd:ae, SS:false
+[06-02 10:24:25.232] List of Known APs: Cand: [], Core: [], Prob: []
+[06-02 10:24:25.232] Q-Table reward update: CAP: ##:##:##:##:cd:ae, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1717320265163
+[06-02 10:24:25.235] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[06-02 10:24:25.246] save_model_obj : success to save_model_obj(org.json) in 0.003
+[06-02 10:24:25.261] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-07 13:53:54.152] Good Link, timestamp =: 1744030434151, RSSI:-50, AP:##:##:##:##:cd:ae
+[04-07 13:54:47.329] Network disconnected event(intermediate), timestamp =1744030487329: , RSSI=-23
+[04-07 13:54:47.329] Foreground package,:  com.sec.android.app.launcher(10146)
+[04-07 13:54:47.336] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-07 13:54:47.337] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-07 13:54:50.571] WIFI OFF event, timestamp = 1744030490571: , edgeflag = true, old AP=##:##:##:##:cd:ae, PN: com.android.systemui
+[04-07 13:54:50.572] AP List Change: bssid: ##:##:##:##:cd:ae CandidateList >> Candidate List: [], Core List: [], Probation List: []
+[04-07 13:54:50.572] List of Known APs: Cand: [], Core: [], Prob: []
+[04-07 13:54:50.573] Q-Table reward update: CAP: ##:##:##:##:cd:ae, Event: wifi-off:M>> Q-Table: [ 0.80; 2.60; 3.20; ] >> swflag=false timestamp =1744030490571
+[04-07 13:54:50.573] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 13 ] timestamp =1744030490571
+[04-07 13:54:50.588] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-07 13:54:50.590] save_model_obj : success to save_model_obj(org.json) in 0.0
+[04-07 16:23:38.336] Mobile Data Off, timestamp =: 1744039418335, edgeflag = false
+[04-07 16:23:38.341] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-07 16:58:26.667] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 04:04:16.265] Mobile Data Off, timestamp =: 1744081456265, edgeflag = false
+[04-08 04:04:16.276] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 05:49:13.339] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 05:49:33.401] Mobile Data Off, timestamp =: 1744087773401, edgeflag = false
+[04-08 05:49:33.402] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 06:43:28.043] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 18:57:22.724] Mobile Data Off, timestamp =: 1744135042721, edgeflag = false
+[04-08 18:57:22.729] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 18:57:24.403] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:28:48.830] Mobile Data Off, timestamp =: 1744136928829, edgeflag = false
+[04-08 19:28:48.837] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:30:57.088] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:42:27.348] Mobile Data Off, timestamp =: 1744137747348, edgeflag = false
+[04-08 19:42:27.357] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:43:56.508] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:45:58.020] Mobile Data Off, timestamp =: 1744137958020, edgeflag = false
+[04-08 19:45:58.023] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:49:54.894] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 19:52:04.387] Mobile Data Off, timestamp =: 1744138324387, edgeflag = false
+[04-08 19:52:04.390] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 20:11:17.320] WIFI OFF event, timestamp =1744139477320: , edgeflag = false, old AP=##:##:##:##:cd:ae, PN = com.android.settings
+[04-08 20:12:57.214] setConnectionAttemptInfo: nid=-1 byUser=true configKey="Francis iphone"WPA_PSK callingUid=1000(com.android.settings) cNid=-1
+[04-08 20:12:57.495] Connecting event, timestamp =1744139577350: , new AP:##:##:##:##:78:a9
+[04-08 20:12:59.207] Connecting event, timestamp =1744139579065: , new AP:##:##:##:##:78:a9
+[04-08 20:12:59.757] SNS state, false, timestamp =1744139579709: , edgeflag = false, NEW AP:##:##:##:##:78:a9
+[04-08 20:12:59.758] Network connected event(intermediate), timestamp =1744139579709: , New AP:##:##:##:##:78:a9, SS:false
+[04-08 20:12:59.758] List of Known APs: Cand: [ <cd:ae;2;109089186> ], Core: [], Prob: []
+[04-08 20:12:59.760] Q-Table reward update: CAP: ##:##:##:##:78:a9, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1744139579709
+[04-08 20:12:59.772] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-08 20:12:59.783] save_model_obj : success to save_model_obj(org.json) in 0.011
+[04-08 20:12:59.784] Excluded network from IWC: ##:##:##:##:78:a9("Francis iphone"SAE) is MHS
+[04-08 20:12:59.784] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 20:13:03.744] Good Link, timestamp =: 1744139583744, RSSI:-52, AP:##:##:##:##:78:a9
+[04-08 20:33:49.658] Network disconnected event(intermediate), timestamp =1744140829658: , RSSI=-60
+[04-08 20:33:49.663] Foreground package,:  com.android.providers.media.module(10269)
+[04-08 20:33:49.695] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-08 20:33:49.696] save_model_obj : success to save_model_obj(org.json) in 0.0
+[04-08 20:33:49.697] Excluded network from IWC: ##:##:##:##:78:a9("Francis iphone"SAE) is MHS
+[04-08 20:40:26.075] Excluded network from IWC: ##:##:##:##:78:a9("Francis iphone"SAE) is MHS
+[04-08 20:40:26.081] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 20:41:39.446] Mobile Data Off, timestamp =: 1744141299446, edgeflag = false
+[04-08 20:41:39.447] Excluded network from IWC: ##:##:##:##:78:a9("Francis iphone"SAE) is MHS
+[04-08 20:41:39.448] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 20:49:36.348] Excluded network from IWC: ##:##:##:##:78:a9("Francis iphone"SAE) is MHS
+[04-08 20:49:36.349] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 20:49:39.016] WIFI OFF event, timestamp =1744141779016: , edgeflag = false, old AP=##:##:##:##:78:a9, PN = com.android.systemui
+[04-08 22:28:10.290] WIFI OFF event, timestamp =1744147690290: , edgeflag = false, old AP=##:##:##:##:78:a9, PN = com.android.systemui
+[04-08 22:40:50.561] Mobile Data Off, timestamp =: 1744148450561, edgeflag = false
+[04-08 22:40:50.573] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-08 23:06:23.733] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 05:18:30.049] Mobile Data Off, timestamp =: 1744172310044, edgeflag = false
+[04-09 05:18:30.060] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 06:17:03.741] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 06:17:34.047] Mobile Data Off, timestamp =: 1744175854047, edgeflag = false
+[04-09 06:17:34.051] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 06:45:51.298] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 07:27:12.551] Mobile Data Off, timestamp =: 1744180032551, edgeflag = false
+[04-09 07:27:12.558] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 07:32:28.190] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 07:42:26.843] Mobile Data Off, timestamp =: 1744180946843, edgeflag = false
+[04-09 07:42:26.847] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 07:54:12.101] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 07:56:35.630] Mobile Data Off, timestamp =: 1744181795630, edgeflag = false
+[04-09 07:56:35.638] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 09:43:07.373] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[04-09 09:43:07.374] Default value of : SNS: DEFAULT_ON
+[04-09 09:43:07.377] load_model_obj : success to load_model_obj(org.json) in 0.002
+[04-09 09:43:07.378] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[04-09 09:43:07.378] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[04-09 09:59:56.160] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 10:04:19.030] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[04-09 10:04:19.033] Default value of : SNS: DEFAULT_ON
+[04-09 10:04:19.035] load_model_obj : success to load_model_obj(org.json) in 0.002
+[04-09 10:04:19.035] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[04-09 10:04:19.036] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[04-09 10:10:48.957] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 10:10:48.962] Mobile Data Off, timestamp =: 1744189848961, edgeflag = false
+[04-09 15:04:03.827] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[04-09 15:04:03.828] Default value of : SNS: DEFAULT_ON
+[04-09 15:04:03.847] load_model_obj : success to load_model_obj(org.json) in 0.018
+[04-09 15:04:03.848] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[04-09 15:04:03.848] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[04-09 16:00:00.967] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 20:48:14.207] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 20:48:14.212] Mobile Data Off, timestamp =: 1744228094210, edgeflag = false
+[04-09 20:48:31.692] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-09 23:21:24.754] Mobile Data Off, timestamp =: 1744237284752, edgeflag = false
+[04-09 23:21:24.757] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 06:09:54.139] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 06:18:46.931] Mobile Data Off, timestamp =: 1744262326930, edgeflag = false
+[04-10 06:18:46.931] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 06:42:22.234] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 07:51:29.761] Mobile Data Off, timestamp =: 1744267889760, edgeflag = false
+[04-10 07:51:29.770] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 07:53:30.436] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 07:59:48.450] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 07:59:48.451] Mobile Data Off, timestamp =: 1744268388451, edgeflag = false
+[04-10 08:36:44.773] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 08:37:48.473] Mobile Data Off, timestamp =: 1744270668473, edgeflag = false
+[04-10 08:37:48.474] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 09:22:09.095] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 14:30:46.507] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 14:31:45.236] WIFI OFF event, timestamp =1744291905236: , edgeflag = false, old AP=null, PN = com.sec.android.app.safetyassurance
+[04-10 14:31:45.633] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 15:00:48.122] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 15:00:59.296] WIFI OFF event, timestamp =1744293659296: , edgeflag = false, old AP=null, PN = com.sec.android.app.safetyassurance
+[04-10 15:00:59.629] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 18:17:11.339] SemIWCMonitor STC(0) : SW Version : G973USQU9IXE1
+[04-10 18:17:11.357] Default value of : SNS: DEFAULT_ON
+[04-10 18:17:11.367] load_model_obj : success to load_model_obj(org.json) in 0.008
+[04-10 18:17:11.368] setDefaultQAI(RFLInterface intf): Default QAI is calculated by SNS Option based
+[04-10 18:17:11.368] setDefaultQAI(RFLInterface intf): Default QAI was set 3
+[04-10 22:27:19.254] Connecting event, timestamp =1744320439253: , new AP:##:##:##:##:85:1d
+[04-10 22:27:20.808] Connecting event, timestamp =1744320440667: , new AP:##:##:##:##:85:1d
+[04-10 22:27:21.356] SNS state, false, timestamp =1744320441312: , edgeflag = false, NEW AP:##:##:##:##:85:1d
+[04-10 22:27:21.358] Network connected event(intermediate), timestamp =1744320441312: , New AP:##:##:##:##:85:1d, SS:false
+[04-10 22:27:21.358] List of Known APs: Cand: [ <78:a9;0;180861600>  <cd:ae;2;289950786> ], Core: [], Prob: []
+[04-10 22:27:21.360] Q-Table reward update: CAP: ##:##:##:##:85:1d, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1744320441312
+[04-10 22:27:21.370] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 22:27:21.374] save_model_obj : success to save_model_obj(org.json) in 0.004
+[04-10 22:27:21.376] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 22:27:25.901] Good Link, timestamp =: 1744320445901, RSSI:-32, AP:##:##:##:##:85:1d
+[04-10 22:37:25.319] Network disconnected event(intermediate), timestamp =1744321045319: , RSSI=-33
+[04-10 22:37:25.320] Foreground package,:  com.android.bluetooth(1002)
+[04-10 22:37:25.325] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 22:37:25.327] save_model_obj : success to save_model_obj(org.json) in 0.002
+[04-10 22:37:25.371] Auto Disconnection Event, timestamp = 1744321045371: , RSSI=-33, Old AP=##:##:##:##:85:1d
+[04-10 22:37:25.372] List of Known APs: Cand: [ <78:a9;0;181465614>  <cd:ae;2;290554800>  <85:1d;0;604013> ], Core: [], Prob: []
+[04-10 22:37:25.373] Q-Table reward update: CAP: ##:##:##:##:85:1d, Event: auto_disconnection:M>> Q-Table: [ 0.00; 2.00; 4.02; ] >> swflag=false timestamp =1744321045371
+[04-10 22:37:25.373] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 0 ] timestamp =1744321045371
+[04-10 22:37:25.379] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 22:37:25.381] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-10 22:40:07.063] Connecting event, timestamp =1744321206951: , new AP:##:##:##:##:85:1d
+[04-10 22:40:07.862] Connecting event, timestamp =1744321207775: , new AP:##:##:##:##:85:1d
+[04-10 22:40:08.318] SNS state, false, timestamp =1744321208264: , edgeflag = true, NEW AP:##:##:##:##:85:1d
+[04-10 22:40:08.319] Network connected event(intermediate), timestamp =1744321208264: , New AP:##:##:##:##:85:1d, SS:false
+[04-10 22:40:08.323] List of Known APs: Cand: [ <78:a9;0;181628562>  <cd:ae;2;290717748>  <85:1d;1;766961> ], Core: [], Prob: []
+[04-10 22:40:08.326] Q-Table reward update: CAP: ##:##:##:##:85:1d, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.02; ] >> swflag=false timestamp =1744321208264
+[04-10 22:40:08.332] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 22:40:08.334] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-10 22:40:08.340] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 22:40:12.025] Good Link, timestamp =: 1744321212024, RSSI:-127, AP:##:##:##:##:85:1d
+[04-10 23:01:01.450] Network disconnected event(intermediate), timestamp =1744322461449: , RSSI=-33
+[04-10 23:01:01.451] Foreground package,:  com.android.providers.media.module(10269)
+[04-10 23:01:01.451] List of Known APs: Cand: [ <78:a9;0;182881693>  <cd:ae;2;291970879>  <85:1d;1;2020092> ], Core: [], Prob: []
+[04-10 23:01:01.461] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 23:01:01.464] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-10 23:01:01.599] Auto Disconnection Event, timestamp = 1744322461599: , RSSI=-33, Old AP=##:##:##:##:85:1d
+[04-10 23:01:01.600] List of Known APs: Cand: [ <78:a9;0;182881842>  <cd:ae;2;291971028>  <85:1d;1;2020241> ], Core: [], Prob: []
+[04-10 23:01:01.600] Q-Table reward update: CAP: ##:##:##:##:85:1d, Event: auto_disconnection:M>> Q-Table: [ 0.00; 2.00; 4.04; ] >> swflag=false timestamp =1744322461599
+[04-10 23:01:01.600] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 0 0 ] timestamp =1744322461599
+[04-10 23:01:01.603] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 23:01:01.604] save_model_obj : success to save_model_obj(org.json) in 0.0
+[04-10 23:03:43.323] Connecting event, timestamp =1744322623224: , new AP:##:##:##:##:85:1d
+[04-10 23:03:44.253] Connecting event, timestamp =1744322624171: , new AP:##:##:##:##:85:1d
+[04-10 23:03:44.700] SNS state, false, timestamp =1744322624628: , edgeflag = true, NEW AP:##:##:##:##:85:1d
+[04-10 23:03:44.701] Network connected event(intermediate), timestamp =1744322624628: , New AP:##:##:##:##:85:1d, SS:false
+[04-10 23:03:44.701] List of Known APs: Cand: [ <78:a9;0;183044943>  <cd:ae;2;292134129>  <85:1d;2;2183342> ], Core: [], Prob: []
+[04-10 23:03:44.702] Q-Table reward update: CAP: ##:##:##:##:85:1d, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.04; ] >> swflag=false timestamp =1744322624628
+[04-10 23:03:44.710] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-10 23:03:44.724] save_model_obj : success to save_model_obj(org.json) in 0.012
+[04-10 23:03:44.732] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-10 23:03:49.578] Good Link, timestamp =: 1744322629578, RSSI:-127, AP:##:##:##:##:85:1d
+[04-11 04:10:19.653] Network disconnected event(intermediate), timestamp =1744341019653: , RSSI=-28
+[04-11 04:10:19.659] Foreground package,:  com.samsung.android.dialer(10110)
+[04-11 04:10:19.659] List of Known APs: Cand: [ <78:a9;0;201439901>  <cd:ae;2;310529087>  <85:1d;2;20578300> ], Core: [], Prob: []
+[04-11 04:10:19.664] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 04:10:19.665] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-11 04:10:19.950] WIFI OFF event, timestamp =1744341019949: , edgeflag = false, old AP=##:##:##:##:85:1d, PN = com.android.systemui
+[04-11 05:12:28.423] Mobile Data Off, timestamp =: 1744344748422, edgeflag = false
+[04-11 05:12:28.427] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 07:11:03.344] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 07:13:07.550] Connecting event, timestamp =1744351987446: , new AP:##:##:##:##:a2:12
+[04-11 07:13:08.802] Connecting event, timestamp =1744351988715: , new AP:##:##:##:##:a2:12
+[04-11 07:13:09.153] SNS state, false, timestamp =1744351989099: , edgeflag = false, NEW AP:##:##:##:##:a2:12
+[04-11 07:13:09.154] Network connected event(intermediate), timestamp =1744351989099: , New AP:##:##:##:##:a2:12, SS:false
+[04-11 07:13:09.155] List of Known APs: Cand: [ <78:a9;0;212409397>  <cd:ae;2;321498583>  <85:1d;2;31547796> ], Core: [], Prob: []
+[04-11 07:13:09.159] Q-Table reward update: CAP: ##:##:##:##:a2:12, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1744351989099
+[04-11 07:13:09.169] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 07:13:09.180] save_model_obj : success to save_model_obj(org.json) in 0.005
+[04-11 07:13:09.185] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 07:13:11.060] Good Link, timestamp =: 1744351991060, RSSI:-47, AP:##:##:##:##:a2:12
+[04-11 07:17:19.838] Network disconnected event(intermediate), timestamp =1744352239838: , RSSI=-36
+[04-11 07:17:19.845] Foreground package,:  com.android.bluetooth(1002)
+[04-11 07:17:19.851] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 07:17:19.856] save_model_obj : success to save_model_obj(org.json) in 0.005
+[04-11 07:17:19.962] Auto Disconnection Event, timestamp = 1744352239961: , RSSI=-36, Old AP=##:##:##:##:a2:12
+[04-11 07:17:19.963] List of Known APs: Cand: [ <78:a9;0;212660204>  <cd:ae;2;321749390>  <a2:12;0;250807>  <85:1d;2;31798603> ], Core: [], Prob: []
+[04-11 07:17:19.963] Q-Table reward update: CAP: ##:##:##:##:a2:12, Event: auto_disconnection:M>> Q-Table: [ 0.00; 2.00; 4.02; ] >> swflag=false timestamp =1744352239961
+[04-11 07:17:19.964] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 0 ] timestamp =1744352239961
+[04-11 07:17:19.969] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 07:17:19.973] save_model_obj : success to save_model_obj(org.json) in 0.001
+[04-11 07:54:35.699] WIFI OFF event, timestamp =1744354475698: , edgeflag = false, old AP=##:##:##:##:a2:12, PN = com.android.systemui
+[04-11 10:19:36.592] Mobile Data Off, timestamp =: 1744363176592, edgeflag = false
+[04-11 10:19:36.600] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 10:20:18.049] Qtable Dump: < ##:##:##:##:cd:ae - 0.800000.2 2.600000.2 3.200000.2 > < isSteadyState - 0, mLastSNS - -1 > < EventBuffer  13 >
+[04-11 10:20:18.052] Qtable Dump: < ##:##:##:##:78:a9 - 0.000000.2 2.000000.2 4.000000.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  >
+[04-11 10:20:18.052] Qtable Dump: < ##:##:##:##:85:1d - 0.000000.2 2.000000.2 4.039600.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  0 0 >
+[04-11 10:20:18.052] Qtable Dump: < ##:##:##:##:a2:12 - 0.000000.2 2.000000.2 4.020000.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  0 >
+[04-11 10:20:18.052] List of Known APs: Cand: [ <78:a9;0;223638294>  <cd:ae;2;332727480>  <a2:12;1;11228897>  <85:1d;2;42776693> ], Core: [], Prob: []
+[04-11 10:57:27.016] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 11:55:47.290] Mobile Data Off, timestamp =: 1744368947289, edgeflag = false
+[04-11 11:55:47.295] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 12:00:28.922] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 16:40:02.712] Mobile Data Off, timestamp =: 1744386002708, edgeflag = false
+[04-11 16:40:02.741] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 17:38:23.357] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 18:49:35.558] Mobile Data Off, timestamp =: 1744393775557, edgeflag = false
+[04-11 18:49:35.581] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 18:57:06.844] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 18:57:55.098] Mobile Data Off, timestamp =: 1744394275098, edgeflag = false
+[04-11 18:57:55.104] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:23:47.054] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:29:15.520] Mobile Data Off, timestamp =: 1744399755519, edgeflag = false
+[04-11 20:29:15.528] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:33:05.290] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:34:02.284] Mobile Data Off, timestamp =: 1744400042283, edgeflag = false
+[04-11 20:34:02.286] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:45:57.757] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 20:50:06.511] Mobile Data Off, timestamp =: 1744401006510, edgeflag = false
+[04-11 20:50:06.512] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:04:55.233] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:24:08.734] Mobile Data Off, timestamp =: 1744403048733, edgeflag = false
+[04-11 21:24:08.754] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:24:47.371] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:44:02.724] Mobile Data Off, timestamp =: 1744404242720, edgeflag = false
+[04-11 21:44:02.728] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:44:05.476] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:48:55.987] Connecting event, timestamp =1744404535888: , new AP:##:##:##:##:c6:6c
+[04-11 21:48:57.335] Connecting event, timestamp =1744404537192: , new AP:##:##:##:##:c6:6c
+[04-11 21:48:57.753] SNS state, false, timestamp =1744404537681: , edgeflag = false, NEW AP:##:##:##:##:c6:6c
+[04-11 21:48:57.755] Network connected event(intermediate), timestamp =1744404537681: , New AP:##:##:##:##:c6:6c, SS:false
+[04-11 21:48:57.755] List of Known APs: Cand: [ <78:a9;0;264957997>  <cd:ae;2;374047183>  <a2:12;1;52548600>  <85:1d;2;84096396> ], Core: [], Prob: []
+[04-11 21:48:57.756] Q-Table reward update: CAP: ##:##:##:##:c6:6c, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1744404537681
+[04-11 21:48:57.779] snsAvailability:  true, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:48:57.786] save_model_obj : success to save_model_obj(org.json) in 0.006
+[04-11 21:48:57.789] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:48:59.026] Mobile Data Off, timestamp =: 1744404539026, edgeflag = false
+[04-11 21:48:59.029] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:49:01.755] Good Link, timestamp =: 1744404541755, RSSI:-41, AP:##:##:##:##:c6:6c
+[04-11 21:50:48.529] Network disconnected event(intermediate), timestamp =1744404648527: , RSSI=-41
+[04-11 21:50:48.546] Foreground package,:  com.bitmart.bitmarket(10248)
+[04-11 21:50:48.552] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:50:48.556] save_model_obj : success to save_model_obj(org.json) in 0.004
+[04-11 21:50:48.621] Auto Disconnection Event, timestamp = 1744404648621: , RSSI=-41, Old AP=##:##:##:##:c6:6c
+[04-11 21:50:48.622] List of Known APs: Cand: [ <78:a9;0;265068864>  <cd:ae;2;374158050>  <c6:6c;0;110866>  <a2:12;1;52659467>  <85:1d;2;84207263> ], Core: [], Prob: []
+[04-11 21:50:48.623] Q-Table reward update: CAP: ##:##:##:##:c6:6c, Event: auto_disconnection:M>> Q-Table: [ 0.00; 2.00; 4.02; ] >> swflag=false timestamp =1744404648621
+[04-11 21:50:48.624] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 0 ] timestamp =1744404648621
+[04-11 21:50:48.641] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:50:48.668] save_model_obj : success to save_model_obj(org.json) in 0.025
+[04-11 21:51:01.255] Connecting event, timestamp =1744404661154: , new AP:##:##:##:##:c6:6c
+[04-11 21:51:02.091] Connecting event, timestamp =1744404661963: , new AP:##:##:##:##:c6:6c
+[04-11 21:51:02.493] SNS state, false, timestamp =1744404662428: , edgeflag = true, NEW AP:##:##:##:##:c6:6c
+[04-11 21:51:02.494] Network connected event(intermediate), timestamp =1744404662428: , New AP:##:##:##:##:c6:6c, SS:false
+[04-11 21:51:02.495] List of Known APs: Cand: [ <78:a9;0;265082737>  <cd:ae;2;374171923>  <c6:6c;1;124739>  <a2:12;1;52673340>  <85:1d;2;84221136> ], Core: [], Prob: []
+[04-11 21:51:02.498] Q-Table reward update: CAP: ##:##:##:##:c6:6c, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.02; ] >> swflag=false timestamp =1744404662428
+[04-11 21:51:02.504] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:51:02.506] save_model_obj : success to save_model_obj(org.json) in 0.002
+[04-11 21:51:02.508] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:51:14.477] Good Link, timestamp =: 1744404674477, RSSI:-36, AP:##:##:##:##:c6:6c
+[04-11 21:54:41.296] Auto Disconnection Event, timestamp = 1744404881296: , RSSI=-49, Old AP=##:##:##:##:c6:6c
+[04-11 21:54:41.298] List of Known APs: Cand: [ <78:a9;0;265301540>  <cd:ae;2;374390726>  <c6:6c;1;343542>  <a2:12;1;52892143>  <85:1d;2;84439939> ], Core: [], Prob: []
+[04-11 21:54:41.299] Q-Table reward update: CAP: ##:##:##:##:c6:6c, Event: auto_disconnection:M>> Q-Table: [ 0.00; 2.00; 4.04; ] >> swflag=true timestamp =1744404881296
+[04-11 21:54:41.300] Steady State: isSteadyState: false, snsFlag: false EventBuffer: [ 0 0 ] timestamp =1744404881296
+[04-11 21:54:41.305] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:54:41.308] save_model_obj : success to save_model_obj(org.json) in 0.002
+[04-11 21:55:57.688] Network disconnected event(intermediate), timestamp =1744404957684: , RSSI=-49
+[04-11 21:55:57.691] Foreground package,:  com.bitmart.bitmarket(10248)
+[04-11 21:55:57.692] List of Known APs: Cand: [ <78:a9;0;265377933>  <cd:ae;2;374467119>  <c6:6c;2;419935>  <a2:12;1;52968536>  <85:1d;2;84516332> ], Core: [], Prob: []
+[04-11 21:55:57.704] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:55:57.727] save_model_obj : success to save_model_obj(org.json) in 0.022
+[04-11 21:56:16.925] Connecting event, timestamp =1744404976829: , new AP:##:##:##:##:03:5b
+[04-11 21:56:18.247] Connecting event, timestamp =1744404978124: , new AP:##:##:##:##:03:5b
+[04-11 21:56:18.743] SNS state, false, timestamp =1744404978654: , edgeflag = true, NEW AP:##:##:##:##:03:5b
+[04-11 21:56:18.743] Network connected event(intermediate), timestamp =1744404978654: , New AP:##:##:##:##:03:5b, SS:false
+[04-11 21:56:18.744] List of Known APs: Cand: [ <78:a9;0;265398986>  <cd:ae;2;374488172>  <c6:6c;2;440988>  <a2:12;1;52989589>  <85:1d;2;84537385> ], Core: [], Prob: []
+[04-11 21:56:18.745] Q-Table reward update: CAP: ##:##:##:##:03:5b, Event: NETWORK_CONNECTED initial value >> Q-Table: [ 0.00; 2.00; 4.00; ] >> swflag=false timestamp =1744404978654
+[04-11 21:56:18.752] snsAvailability:  false, #SteadyState before: 0 after: 0, qai: 3, mCurSNS: false
+[04-11 21:56:18.754] save_model_obj : success to save_model_obj(org.json) in 0.0
+[04-11 21:56:18.755] SemIWCMonitor: Send IWC-CURRENT-QAI QAI: -1
+[04-11 21:56:22.728] Good Link, timestamp =: 1744404982728, RSSI:-27, AP:##:##:##:##:03:5b
+[04-11 22:12:01.339] Poor Link, timestamp =: 1744405921337  RSSI:-57  AP:##:##:##:##:03:5b
+[04-11 22:12:01.345] List of Known APs: Cand: [ <03:5b;0;942601>  <78:a9;0;266341587>  <cd:ae;2;375430773>  <c6:6c;2;1383589>  <a2:12;1;53932190>  <85:1d;2;85479986> ], Core: [], Prob: []
+[04-11 22:12:01.346] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:12:03.386] Good Link, timestamp =: 1744405921337  RSSI:-57  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:12:03.390] Good Link, timestamp =: 1744405923389, RSSI:-64, AP:##:##:##:##:03:5b
+[04-11 22:51:08.652] Poor Link, timestamp =: 1744408268651  RSSI:-68  AP:##:##:##:##:03:5b
+[04-11 22:51:08.664] List of Known APs: Cand: [ <03:5b;0;3289919>  <78:a9;0;268688905>  <cd:ae;2;377778091>  <c6:6c;2;3730907>  <a2:12;1;56279508>  <85:1d;2;87827304> ], Core: [], Prob: []
+[04-11 22:51:08.665] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:51:10.706] Good Link, timestamp =: 1744408268651  RSSI:-68  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:51:10.707] Good Link, timestamp =: 1744408270706, RSSI:-66, AP:##:##:##:##:03:5b
+[04-11 22:52:01.888] Poor Link, timestamp =: 1744408321888  RSSI:-66  AP:##:##:##:##:03:5b
+[04-11 22:52:01.893] List of Known APs: Cand: [ <03:5b;0;3343148>  <78:a9;0;268742135>  <cd:ae;2;377831321>  <c6:6c;2;3784137>  <a2:12;1;56332738>  <85:1d;2;87880534> ], Core: [], Prob: []
+[04-11 22:52:01.896] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:52:03.920] Good Link, timestamp =: 1744408321888  RSSI:-66  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:52:03.922] Good Link, timestamp =: 1744408323921, RSSI:-46, AP:##:##:##:##:03:5b
+[04-11 22:52:31.525] Poor Link, timestamp =: 1744408351525  RSSI:-55  AP:##:##:##:##:03:5b
+[04-11 22:52:31.526] List of Known APs: Cand: [ <03:5b;0;3372782>  <78:a9;0;268771768>  <cd:ae;2;377860954>  <c6:6c;2;3813770>  <a2:12;1;56362371>  <85:1d;2;87910167> ], Core: [], Prob: []
+[04-11 22:52:31.526] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:52:32.533] Poor Link, timestamp =: 1744408352533  RSSI:-67  AP:##:##:##:##:03:5b
+[04-11 22:52:32.533] List of Known APs: Cand: [ <03:5b;0;3373789>  <78:a9;0;268772775>  <cd:ae;2;377861961>  <c6:6c;2;3814777>  <a2:12;1;56363378>  <85:1d;2;87911174> ], Core: [], Prob: []
+[04-11 22:52:32.534] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:52:34.562] Good Link, timestamp =: 1744408352533  RSSI:-67  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:52:34.563] Good Link, timestamp =: 1744408354563, RSSI:-58, AP:##:##:##:##:03:5b
+[04-11 22:52:41.666] Poor Link, timestamp =: 1744408361666  RSSI:-64  AP:##:##:##:##:03:5b
+[04-11 22:52:41.669] List of Known APs: Cand: [ <03:5b;0;3382924>  <78:a9;0;268781910>  <cd:ae;2;377871096>  <c6:6c;2;3823912>  <a2:12;1;56372513>  <85:1d;2;87920309> ], Core: [], Prob: []
+[04-11 22:52:41.672] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:52:44.716] Good Link, timestamp =: 1744408361666  RSSI:-64  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:52:44.717] Good Link, timestamp =: 1744408364717, RSSI:-67, AP:##:##:##:##:03:5b
+[04-11 22:52:46.737] Poor Link, timestamp =: 1744408366737  RSSI:-67  AP:##:##:##:##:03:5b
+[04-11 22:52:46.738] List of Known APs: Cand: [ <03:5b;0;3387994>  <78:a9;0;268786980>  <cd:ae;2;377876166>  <c6:6c;2;3828982>  <a2:12;1;56377583>  <85:1d;2;87925379> ], Core: [], Prob: []
+[04-11 22:52:46.739] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 22:52:51.841] Good Link, timestamp =: 1744408366737  RSSI:-67  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 22:52:51.843] Good Link, timestamp =: 1744408371843, RSSI:-68, AP:##:##:##:##:03:5b
+[04-11 23:10:47.912] Poor Link, timestamp =: 1744409447910  RSSI:-63  AP:##:##:##:##:03:5b
+[04-11 23:10:47.938] List of Known APs: Cand: [ <03:5b;0;4469194>  <78:a9;0;269868180>  <cd:ae;2;378957366>  <c6:6c;2;4910182>  <a2:12;1;57458783>  <85:1d;2;89006579> ], Core: [], Prob: []
+[04-11 23:10:47.939] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 23:10:51.945] Good Link, timestamp =: 1744409447910  RSSI:-63  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 23:10:51.946] Good Link, timestamp =: 1744409451945, RSSI:-63, AP:##:##:##:##:03:5b
+[04-11 23:14:28.307] Poor Link, timestamp =: 1744409668307  RSSI:-64  AP:##:##:##:##:03:5b
+[04-11 23:14:28.310] List of Known APs: Cand: [ <03:5b;0;4689565>  <78:a9;0;270088551>  <cd:ae;2;379177737>  <c6:6c;2;5130553>  <a2:12;1;57679154>  <85:1d;2;89226950> ], Core: [], Prob: []
+[04-11 23:14:28.311] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 23:14:30.338] Good Link, timestamp =: 1744409668307  RSSI:-64  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 23:14:30.339] Good Link, timestamp =: 1744409670339, RSSI:-61, AP:##:##:##:##:03:5b
+[04-11 23:14:34.417] Poor Link, timestamp =: 1744409674417  RSSI:-64  AP:##:##:##:##:03:5b
+[04-11 23:14:34.421] List of Known APs: Cand: [ <03:5b;0;4695676>  <78:a9;0;270094662>  <cd:ae;2;379183848>  <c6:6c;2;5136664>  <a2:12;1;57685265>  <85:1d;2;89233061> ], Core: [], Prob: []
+[04-11 23:14:34.422] Q-Table Action Taken: Q-Table: [ 0.000000 0.000000 0.000000; 2.000000 0.000000 0.000000; 4.000000 0.000000 0.000000; ] >> Action Taken: 0, New State: 2
+[04-11 23:14:36.491] Good Link, timestamp =: 1744409674417  RSSI:-64  AP:##:##:##:##:03:5b Direction: -1 Direction (soft): -1
+[04-11 23:14:36.492] Good Link, timestamp =: 1744409676491, RSSI:-58, AP:##:##:##:##:03:5b
+[04-11 23:18:40.850] Qtable Dump: < ##:##:##:##:cd:ae - 0.800000.2 2.600000.2 3.200000.2 > < isSteadyState - 0, mLastSNS - -1 > < EventBuffer  13 >
+[04-11 23:18:40.853] Qtable Dump: < ##:##:##:##:78:a9 - 0.000000.2 2.000000.2 4.000000.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  >
+[04-11 23:18:40.853] Qtable Dump: < ##:##:##:##:85:1d - 0.000000.2 2.000000.2 4.039600.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  0 0 >
+[04-11 23:18:40.853] Qtable Dump: < ##:##:##:##:a2:12 - 0.000000.2 2.000000.2 4.020000.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  0 >
+[04-11 23:18:40.853] Qtable Dump: < ##:##:##:##:c6:6c - 0.000000.2 2.000000.2 4.039600.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  0 0 >
+[04-11 23:18:40.853] Qtable Dump: < ##:##:##:##:03:5b - 0.000000.2 2.000000.2 4.000000.2 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  >
+[04-11 23:18:40.854] List of Known APs: Cand: [ <03:5b;0;4942110>  <78:a9;0;270341096>  <cd:ae;2;379430282>  <c6:6c;2;5383098>  <a2:12;1;57931699>  <85:1d;2;89479495> ], Core: [], Prob: []
+[04-11 23:18:40.855] Qtable Dump(current bssid): < ##:##:##:##:03:5b - 0.00 2.00 4.00 > < isSteadyState - 0, mLastSNS - 0 > < EventBuffer  >
