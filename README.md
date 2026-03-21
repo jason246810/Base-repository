@@ -10,3 +10,4 @@ I’m honest, even when it’s not easy
 I don’t give up easily
 I try to improve myself every day
 I’m naturally curious
+I like understanding how things work
