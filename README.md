@@ -63,3 +63,4 @@ I’m proud of my journey
 I don’t fear starting over
 I’m better than my past
 I’m committed to becoming successful
+I believe in improving myself financially, mentally, and emotionally
