@@ -53,3 +53,4 @@ I can read people well
 I know how to make people feel comfortable
 I protect my peace
 I’m learning to let go of things that drain me
+I’m grateful for how far I’ve come
