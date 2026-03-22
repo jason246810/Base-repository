@@ -87,3 +87,4 @@ I’m brave enough to chase my dreams
 I forgive but never forget the lesson
 I’m learning to rest, not quit
 I’m learning to rest, not quit
+I don’t need validation to feel worthy
