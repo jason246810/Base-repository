@@ -28,3 +28,4 @@ I’m self-aware
 I notice small details others may miss
 I’m thoughtful with my words
 I’m someone people can rely on
+I have big dreams
