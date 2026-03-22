@@ -65,3 +65,4 @@ I’m better than my past
 I’m committed to becoming successful
 I believe in improving myself financially, mentally, and emotionally
 I’m selective with my circle
+I can uplift people easily
