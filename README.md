@@ -29,3 +29,4 @@ I notice small details others may miss
 I’m thoughtful with my words
 I’m someone people can rely on
 I have big dreams
+I believe I’m destined for something great
