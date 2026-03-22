@@ -25,5 +25,6 @@ I’m becoming more confident each day
 I’m open to new opportunities
 I handle challenges with patience
 I’m self-aware
-notice small details others may miss
+I notice small details others may miss
 I’m thoughtful with my words
+I’m someone people can rely on
