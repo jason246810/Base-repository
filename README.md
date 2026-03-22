@@ -96,3 +96,4 @@ I respect my own boundaries
 I’m focused on long-term success
 I’m becoming wiser with age
 I trust that good things are coming
+I’m proud of who I’m becoming
