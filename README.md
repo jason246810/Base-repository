@@ -57,3 +57,4 @@ I’m grateful for how far I’ve come
 I’m motivated by progress
 I love meaningful conversations
 I value loyalty
+I’m patient with my growth
