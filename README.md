@@ -92,3 +92,4 @@ I’m unique, and that’s my strength
 I’m getting better at managing my emotions
 I value my mental peace
 I believe in my potential
+I respect my own boundaries
