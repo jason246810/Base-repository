@@ -90,3 +90,4 @@ I’m learning to rest, not quit
 I don’t need validation to feel worthy
 I’m unique, and that’s my strength
 I’m getting better at managing my emotions
+I value my mental peace
