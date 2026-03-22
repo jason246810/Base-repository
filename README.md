@@ -51,3 +51,4 @@ I’m smarter than I sometimes give myself credit for
 I have a good heart
 I can read people well
 I know how to make people feel comfortable
+I protect my peace
