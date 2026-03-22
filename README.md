@@ -24,3 +24,4 @@ I’m learning to trust myself more
 I’m becoming more confident each day
 I’m open to new opportunities
 I handle challenges with patience
+I’m self-aware
