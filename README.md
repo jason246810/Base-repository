@@ -46,3 +46,4 @@ I care about my future
 I’m learning to love myself more
 I’m consistent when it matters
 I respect people who respect me
+I don’t settle for less than I deserve
