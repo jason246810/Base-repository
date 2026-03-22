@@ -43,3 +43,4 @@ I’m capable of achieving more than I realize
 I’m driven by purpose
 I have a unique way of seeing the world
 I care about my future
+I’m learning to love myself more
