@@ -73,3 +73,4 @@ I’m disciplined when I set my mind to something
 I’m good at spotting opportunities
 I’m humble but confident
 I’m building a life I can be proud of
+I learn from my mistakes
