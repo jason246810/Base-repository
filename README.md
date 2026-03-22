@@ -36,3 +36,4 @@ I don’t run from tough conversations
 I’m learning how to set boundaries
 I’m becoming the best version of myself
 I’m kind, even when no one is watching
+I think deeply about life
