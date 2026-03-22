@@ -44,3 +44,4 @@ I’m driven by purpose
 I have a unique way of seeing the world
 I care about my future
 I’m learning to love myself more
+I’m consistent when it matters
