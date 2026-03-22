@@ -94,3 +94,4 @@ I value my mental peace
 I believe in my potential
 I respect my own boundaries
 I’m focused on long-term success
+I’m becoming wiser with age
