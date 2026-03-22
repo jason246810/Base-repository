@@ -34,3 +34,4 @@ I love learning new skills
 I take responsibility for my actions
 I don’t run from tough conversations
 I’m learning how to set boundaries
+I’m becoming the best version of myself
