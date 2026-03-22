@@ -78,3 +78,4 @@ I appreciate the small wins
 I’m not afraid to stand alone
 I trust my instincts
 I’m becoming more consistent with my goals
+I’m protective of the people I love
