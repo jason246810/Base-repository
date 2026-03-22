@@ -22,3 +22,4 @@ I know how to keep things private
 I can motivate myself when needed
 I’m learning to trust myself more
 I’m becoming more confident each day
+I’m open to new opportunities
