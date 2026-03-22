@@ -62,3 +62,4 @@ I’m self-driven
 I’m proud of my journey
 I don’t fear starting over
 I’m better than my past
+I’m committed to becoming successful
