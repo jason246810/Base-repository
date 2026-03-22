@@ -82,3 +82,4 @@ I’m protective of the people I love
 I’m patient with myself
 I’m grateful for growth
 I know how to move in silence
+I want to make a positive impact
