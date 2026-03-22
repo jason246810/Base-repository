@@ -70,3 +70,4 @@ I think realistically but dream boldly
 I stay calm in chaos
 I’m learning to communicate better
 I’m disciplined when I set my mind to something
+I’m good at spotting opportunities
