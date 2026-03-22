@@ -67,3 +67,4 @@ I believe in improving myself financially, mentally, and emotionally
 I’m selective with my circle
 I can uplift people easily
 I think realistically but dream boldly
+I stay calm in chaos
