@@ -59,3 +59,4 @@ I love meaningful conversations
 I value loyalty
 I’m patient with my growth
 I’m self-driven
+I’m proud of my journey
