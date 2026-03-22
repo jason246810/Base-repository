@@ -75,3 +75,4 @@ I’m humble but confident
 I’m building a life I can be proud of
 I learn from my mistakes
 I appreciate the small wins
+I’m not afraid to stand alone
