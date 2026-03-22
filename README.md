@@ -40,3 +40,4 @@ I think deeply about life
 I’m resourceful in difficult situations
 I know how to stay calm under pressure
 I’m capable of achieving more than I realize.
+I’m driven by purpose.
