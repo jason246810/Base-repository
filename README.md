@@ -19,3 +19,4 @@ I think before I react
 I’m always willing to help those I care about
 I stay loyal to the people who deserve it
 I know how to keep things private
+I can motivate myself when needed
