@@ -1,4 +1,4 @@
-çmy name is jace
+my name is jace
 I am 20 something years old
 I love eating 
 I really love eating alot
@@ -20,3 +20,4 @@ I’m always willing to help those I care about
 I stay loyal to the people who deserve it
 I know how to keep things private
 I can motivate myself when needed
+I’m learning to trust myself more
