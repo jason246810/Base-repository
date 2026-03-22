@@ -14,3 +14,4 @@ I like understanding how things work
 I’m more resilient than I think
 I’m creative in my own way
 I can handle pressure
+I have a good sense of humor
