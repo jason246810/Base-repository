@@ -84,3 +84,4 @@ I’m grateful for growth
 I know how to move in silence
 I want to make a positive impact
 I’m brave enough to chase my dreams
+I forgive but never forget the lesson
