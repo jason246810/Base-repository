@@ -30,3 +30,4 @@ I’m thoughtful with my words
 I’m someone people can rely on
 I have big dreams
 I believe I’m destined for something great
+I love learning new skills.
