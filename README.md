@@ -16,3 +16,4 @@ I’m creative in my own way
 I can handle pressure
 I have a good sense of humor
 I think before I react
+I’m always willing to help those I care about
