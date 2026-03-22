@@ -38,3 +38,4 @@ I’m becoming the best version of myself
 I’m kind, even when no one is watching
 I think deeply about life
 I’m resourceful in difficult situations
+I know how to stay calm under pressure
