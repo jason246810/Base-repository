@@ -80,3 +80,4 @@ I trust my instincts
 I’m becoming more consistent with my goals
 I’m protective of the people I love
 I’m patient with myself
+I’m grateful for growth
